@@ -1,5 +1,11 @@
 # Object Oriented Python
 
+## Setup
+* `pipenv install` will allow us to use the `ipdb` library.
+* `pipenv shell` will bring us to an environment with `ipdb`.
+* Once in that shell running `python run.py` will bring us to a prompt where our classes are in scope.
+
+
 ## Objectives
 
 * Define `object` in programming domain 
