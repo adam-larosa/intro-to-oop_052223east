@@ -19,6 +19,7 @@
     - Class : Instance as Factory : Car
 * Pass arguments to `__init__` by defining an dunder init method in class
     - Python knows to look for the `__init__` method when an instance is created.
+    - e.g.  `c1 = Cat( 'Luke', 5 )`
 * Create instance methods
     - Same function syntax as with normal Python functions, only now all methods will have one parameter of `self`, which represents the instance.
 * Define attribute readers and writers using the `property` function.
