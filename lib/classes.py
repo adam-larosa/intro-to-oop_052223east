@@ -52,7 +52,7 @@ class Owner:
         # return cat_list
 
 
-#          this is what end up
+#          this is what ends up
 #            in the new list
 #                 |
 #                 v    
@@ -61,7 +61,7 @@ class Owner:
 #                         |
 #                    a variable we 
 #                  are declaring to 
-#                 represent on of the
+#                 represent one of the
 #                   cats in Cat.all
 
 
